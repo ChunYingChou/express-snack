@@ -1,0 +1,149 @@
+{
+  "type": "module",
+  "results": [
+    {
+      "id": 1,
+      "name": "太陽牌冰品",
+      "category": "甜點冰品",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/%E5%A4%AA%E9%99%BD%E7%89%8C%E7%B4%85%E8%B1%86%E5%86%B0-1592969966.jpg",
+      "location": "台南市中西區民權路一段41號",
+      "phone": "(06)2259375",
+      "business_hours": "10:00-21:20",
+      "google_map": "https://goo.gl/maps/s1Qsz6trTMK7HMbG6?coh=178571&entry=tt",
+      "rating": 4.5,
+      "description": "太陽牌是台南的老字號冰品店，許多台南人從媽媽肚子裡就開始吃，綿密的紅豆牛奶霜和可愛立方狀草湖芋仔冰是店內傳承60年的必點招牌，紅豆牛奶霜的用料扎實，飽滿圓潤的紅豆煮得恰到好處，搭配一湯匙濃郁牛奶霜，入口即化。而草湖芋仔冰一份五顆，非常推薦芋頭和花生口味，在口中縈繞的香濃程度，就像直接吃到芋泥與花生本尊!!"
+    },
+    {
+      "id": 2,
+      "name": "NINAO蜷尾家",
+      "category": "甜點冰品",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/%E6%8D%B2%E5%B0%BE%E5%AE%B6-1592971224.jpg",
+      "location": "台南市安平區安北路720號",
+      "phone": " 0979-257-181",
+      "business_hours": "11:00-18:00",
+      "google_map": "https://goo.gl/maps/xYVTyxrLq6S3pzSP6?coh=178571&entry=tt",
+      "rating": 4.2,
+      "description": "2015年拿下世界冰淇淋大賽亞軍的蜷尾家，無疑是台灣冰品代表，近來還被封為華人冰品天王，因此，當然是來到台南必食的重點，正興街的店面雖小，但有種小店的質樸美感，呼應著以天然食材來做的低糖低卡冰淇淋自然滋味，是台南鄉親們力推的散步甜食！"
+    },
+    {
+      "id": 3,
+      "name": "永林牛肉火鍋綜合料理",
+      "category": "中式料理",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/s-69828612-1536289730.jpg",
+      "location": "台南市北區東豐路411號",
+      "phone": "(06)2093462",
+      "business_hours": "11:00-22:00",
+      "google_map": "https://goo.gl/maps/7HfAXqSADbMaJH6u8?coh=178571&entry=tt",
+      "rating": 4.4,
+      "description": "台南人家庭聚餐就來吃這家，滿滿的牛肉料理讓人看了口水直流！招牌溫體現宰牛肉，新鮮手切呈上桌，使用牛骨熬煮而成的湯頭或是鮮甜的蔬菜湯，涮一下，美味滿分！比起其他間牛肉湯名店，更多了冷盤與其他現炒料哩，牛肉控們可別錯過了！"
+    },
+    {
+      "id": 4,
+      "name": "矮仔成蝦仁飯",
+      "category": "中式料理",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/%E8%9D%A6%E4%BB%81%E9%A3%AF-1592973577.jpg",
+      "location": "台南市中西區海安路一段66號",
+      "phone": "(06)2201897",
+      "business_hours": "08:30-19:30",
+      "google_map": "https://goo.gl/maps/LWYQEbYfeF8cnN4j8?coh=178571&entry=tt",
+      "rating": 3.6,
+      "description": "帶有濕潤蝦仁醬汁的米飯，上面搭配著炒過微焦的蝦仁，光是扒飯就能夠口齒留香，建議你可以搭配半熟煎鴨蛋一起吃，再來碗湯，就是簡單幸福的道地台南美味！"
+    },
+    {
+      "id": 5,
+      "name": "邱家小卷米粉",
+      "category": "中式料理",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/%E9%82%B1%E5%AE%B6%E5%B0%8F%E5%8D%B7%E7%B1%B3%E7%B2%89-1592973723.jpg",
+      "location": "台南市中西區國華街三段5號",
+      "phone": "(06)2210517",
+      "business_hours": "11:00-17:00",
+      "google_map": "https://goo.gl/maps/7Y69Sr51JBNcwihd6?coh=178571&entry=tt",
+      "rating": 4,
+      "description": "這一碗真的一定要吃啊！現點現做，現燙的小捲，非常的嫩，咀嚼在口中，彷彿能感受到海洋的鮮味，而且邱家的米粉是用粗米粉，和以往我們吃到的口感不一樣，是最單純的鮮甜滋味！"
+    },
+    {
+      "id": 6,
+      "name": "富盛號碗粿",
+      "category": "中式料理",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/5128ad0d-cf7b-44bb-85aa-199275e18c35-1592975940.jpg",
+      "location": "台南市國華街三段11號",
+      "phone": "(06)2274101",
+      "business_hours": "07:00-17:00",
+      "google_map": "https://goo.gl/maps/REQTqryU6PDV7sNy7?coh=178571&entry=tt",
+      "rating": 4.1,
+      "description": "富盛號碗粿，是從市場起家的美味小吃，店內僅賣碗粿和魚羹，一賣超過70年，是台南人代代相傳、從小吃到大的庶民美食，現在新一代接手，還融合了文創概念，讓整間店都充滿了台南灣的傳統復古風情！"
+    },
+    {
+      "id": 7,
+      "name": "炸雞洋行",
+      "category": "美式料理",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/28377611-1174315129367700-3787670631054474246-n-1592974469.jpg",
+      "location": "台南市中西區國華街三段27號貨櫃屋",
+      "phone": "0976-656-999",
+      "business_hours": "12:00-18:00",
+      "google_map": "https://goo.gl/maps/Xd4WCaJZs2RWDE1aA?coh=178571&entry=tt",
+      "rating": 4.2,
+      "description": "炸雞洋行的菜單非常簡單，雞腿、雞塊、雞翅與馬鈴薯，一口咬下鮮嫩多汁的雞腿，搭配著喀滋喀滋的薄脆外皮，還有肉汁一波波湧出，從正興街的小攤販賣到現在已經擁有兩間店面，就知道這隻炸雞腿有多厲害，每一樣都是必嚐！"
+    },
+    {
+      "id": 8,
+      "name": "阿輝炒鱔魚",
+      "category": "中式料理",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/%E5%8F%B0%E5%8D%97%E9%98%BF%E8%BC%9D%E7%82%92%E9%B1%94%E9%AD%9A-1592464465.jpg",
+      "location": "台南市中西區西門路二段352號",
+      "phone": "(06)2215540",
+      "business_hours": "11:00-22:30",
+      "google_map": "https://goo.gl/maps/RxV8dfdKFUqvatMq8?coh=178571&entry=tt",
+      "rating": 3.2,
+      "description": "位於西門圓環邊的阿輝鱔魚意麵，別小看這間看似平凡的小吃店，它可是曾榮獲米其林綠色指南推薦！勾芡的鱔魚意麵，口味帶有甜味及烏醋的酸香，經過大火快炒的鱔魚，香氣撲鼻。鱔魚的脆嫩搭上傳統炸意麵，簡直是絕配！是來台南必吃之一啊～"
+    },
+    {
+      "id": 9,
+      "name": "阿龍香腸熟肉",
+      "category": "中式料理",
+      "image": "https://scontent.ftpe3-1.fna.fbcdn.net/v/t1.18169-9/14656434_1235735376447055_9212587694508630016_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=174925&_nc_ohc=-HfwUsF-DvIAX9EciWG&_nc_ht=scontent.ftpe3-1.fna&oh=00_AfDSRy_G6AsAsPmgEG1keGsuk7QwZL8Ab4ICN7WoEDTSCQ&oe=649E7119",
+      "location": "台南市中西區保安路34號",
+      "phone": "0927-198-280",
+      "business_hours": "10:30-19:00",
+      "google_map": "https://goo.gl/maps/ra27XTfek24Kbf9w8?coh=178571&entry=tt",
+      "rating": 4.4,
+      "description": "香腸熟肉在北部通常被稱作「黑白切」，其實都是將蔬菜、燙豬肉、內臟或是魚肉、小卷類的食材，以吃多少切多少的形式販售，既能保持新鮮，也能一次吃到多樣美味。看到櫥櫃中排開的多種切料難免眼花撩亂，第一次到阿龍，建議可以嚐嚐台南獨特的蟳丸、蝦棗，蟳丸主要以荸薺、絞肉和雞蛋製成，甜中帶點鹹味，因此也有「蛋糕」這個與眾不同的別稱。加上每份20元的親民價格，三五好友一起點個三四樣也超划算！"
+    },
+    {
+      "id": 10,
+      "name": "游爸爸白糖糕 蕃薯椪",
+      "category": "甜點冰品",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/%E6%B8%B8%E7%88%B8%E7%88%B8%E7%99%BD%E7%B3%96%E7%B3%95-%E8%95%83%E8%96%AF%E6%A4%AA-1592465041.jpg",
+      "location": "台南市中西區友愛街170號",
+      "phone": "0933-353-428",
+      "business_hours": "12:00-19:00",
+      "google_map": "https://goo.gl/maps/y5vJT2GiMByP4z9f7?coh=178571&entry=tt",
+      "rating": 4,
+      "description": "身在熱鬧的國華街與友愛街的轉角處，就可見一排人龍圍著一家小店，新鮮的油品下去炸白糖糕，沾上大把砂糖，酥脆的外表，軟Ｑ的內在，像是炸麻糬般那樣的口感。白糖粿甜度可依個人喜好調整，額外還有芝麻口味，且一份三條只要25元！還有販售蕃薯椪、芋頭餅及沙拉包系列等，是超親民價格的在地午後小點～"
+    },
+    {
+      "id": 11,
+      "name": "双生綠豆沙牛奶",
+      "category": "冰品飲料",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/82419953-2722120784533525-7180474278486212608-n-1-1592904252.jpg",
+      "location": "台南市中西區民族路二段281號",
+      "phone": "(06)2210901",
+      "business_hours": "11:00-18:00",
+      "google_map": "https://goo.gl/maps/GgJwJfusmRddFGP76?coh=178571&entry=tt",
+      "rating": 4.5,
+      "description": "賣的是傳統飲料，重新將小時候綠豆沙牛奶的味道傳承下去。是許多來台南的旅客們的最愛，由綠豆泥及新鮮牛奶製成，可依個人口味加購珍珠，但是無法調整甜度哦！夏天來一杯綠豆沙牛奶消暑，真是有夠清涼～"
+    },
+    {
+      "id": 12,
+      "name": "Chun純薏仁",
+      "category": "甜點冰品",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/18342479-1924718227763378-909859859435022253-n-1536655569.jpg",
+      "location": "台南市中西區國華街三段16巷5號",
+      "phone": " (06)2208910",
+      "business_hours": "11:00-17:00",
+      "google_map": "https://goo.gl/maps/WnsbSvuM8J7o6gJS7?coh=178571&entry=tt",
+      "rating": 4.4,
+      "description": "萬萬沒想到薏仁跟抹茶也能組合在一起！純正的薏仁絕不偷工減料，配上濃郁茶香的抹茶冰淇淋，還加上花生顆粒，一起入口味蕾簡直被顛覆。隨餐還會附上一小碟茶凍與紅豆能配著純薏仁，茶凍的抹茶味不減，而且非常Q，紅豆一粒粒飽滿，老闆照顧的很仔細。相當用心而且具有特色的甜品，來台南一定要吃。"
+    }
+  ]
+}

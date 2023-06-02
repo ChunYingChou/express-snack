@@ -1,0 +1,47 @@
+
+  <div class="container search-bar">
+    <div class="search-bar-outer">
+      <div class="search-bar-inner">
+        <div class="title">
+          <h4>尋找小吃：</h4>
+        </div>
+        <form action="/search">
+          <div class="input-group mb-3">
+            <input
+              type="text"
+              class="form-control"
+              name="keyword"
+              placeholder="請輸入小吃名稱或分類進行搜尋"
+              aria-label="Recipient's username"
+              aria-describedby="button-addon2"
+            />
+            <button
+              class="btn btn-outline-secondary"
+              type="submit"
+              id="button-addon2"
+            >search</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <section class="pictures">
+    {{#each snacks}}
+      <div class="card" style="width: 18rem;">
+        <a href="/snack/{{this.id}}">
+          <div class="img-body">
+            <img src="{{this.image}}" class="card-img-top" alt="..." />
+          </div>
+          <div class="card-body">
+            <p class="card-name">{{this.name}}</p>
+            <p class="card-category"><i class="fa-solid fa-utensils"></i>
+              {{this.category}}</p>
+          </div>
+        </a>
+      </div>
+    {{/each}}
+  </section>
+
+
+
