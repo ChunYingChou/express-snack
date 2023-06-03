@@ -58,12 +58,12 @@
 3. 進入專案資料夾後，在終端機中輸入以下：
 
    ```
-   node app.js
+   node server.js
    ```
 
-4. 待終端機跳出 "Express is listening on localhost:3300" 的訊息
+4. 待終端機跳出 "Express is listening on localhost:8080" 的訊息
    <br />
-5. 打開瀏覽器網址列輸入 "http://localhost:3300/" ，即可瀏覽此專案。
+5. 打開瀏覽器網址列輸入 "http://localhost:8080/" ，即可瀏覽此專案。
    <br />
    <br />
 
