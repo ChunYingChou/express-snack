@@ -4,7 +4,7 @@
 <br />
 <br />
 
-## 線上部署後的網站
+## 線上部署的網址
 
 https://lively-cowboy-boots-lion.cyclic.app
 
