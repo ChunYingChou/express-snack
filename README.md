@@ -56,16 +56,20 @@ https://lively-cowboy-boots-lion.cyclic.app
    ```
    cd express-snack
    ```
+3. 在終端機中輸入以下文字以安裝相關套件：
+   ```
+   npm install
+   ```
 
-3. 進入專案資料夾後，在終端機中輸入以下：
+4. 進入專案資料夾後，在終端機中輸入以下：
 
    ```
    node server.js
    ```
 
-4. 待終端機跳出 "Express is listening on localhost:8080" 的訊息
+5. 待終端機跳出 "Express is listening on localhost:8080" 的訊息
    <br />
-5. 打開瀏覽器網址列輸入 "http://localhost:8080/" ，即可瀏覽此專案。
+6. 打開瀏覽器網址列輸入 "http://localhost:8080/" ，即可瀏覽此專案。
    <br />
    <br />
 
